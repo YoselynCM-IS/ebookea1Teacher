@@ -12,7 +12,7 @@
         <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2020-05-18T18:32:36Z</meta>
+        <meta property="dcterms:modified">2020-05-19T22:52:40Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -101,65 +101,64 @@
 <item id="img36" href="xhtml/pdfw76xa/page6/page.png" media-type="image/png"/>
 <item id="img37" href="xhtml/pdfw76xa/page7/page.png" media-type="image/png"/>
 <item id="img38" href="xhtml/pdfw76xa/page9/page.png" media-type="image/png"/>
-<item id="aud0" href="audio/track01_01.mp3" media-type="audio/mpeg"/>
-<item id="aud1" href="audio/track02_03.mp3" media-type="audio/mpeg"/>
-<item id="aud2" href="audio/track03_01.mp3" media-type="audio/mpeg"/>
-<item id="aud3" href="audio/track04_01.mp3" media-type="audio/mpeg"/>
-<item id="aud4" href="audio/track05_01.mp3" media-type="audio/mpeg"/>
-<item id="aud5" href="audio/track06_01.mp3" media-type="audio/mpeg"/>
-<item id="aud6" href="audio/track07_01.mp3" media-type="audio/mpeg"/>
-<item id="aud7" href="audio/track08_01.mp3" media-type="audio/mpeg"/>
-<item id="aud8" href="audio/track09_01.mp3" media-type="audio/mpeg"/>
-<item id="aud9" href="audio/track10_01.mp3" media-type="audio/mpeg"/>
-<item id="aud10" href="audio/track11_.mp3" media-type="audio/mpeg"/>
-<item id="aud11" href="audio/track11_03.mp3" media-type="audio/mpeg"/>
-<item id="aud12" href="audio/track12_.mp3" media-type="audio/mpeg"/>
-<item id="aud13" href="audio/track13_.mp3" media-type="audio/mpeg"/>
-<item id="aud14" href="audio/track14_.mp3" media-type="audio/mpeg"/>
-<item id="aud15" href="audio/track15_01.mp3" media-type="audio/mpeg"/>
-<item id="aud16" href="audio/track16_.mp3" media-type="audio/mpeg"/>
-<item id="aud17" href="audio/track65_.mp3" media-type="audio/mpeg"/>
+<item id="aud0" href="audio/track01_02.mp3" media-type="audio/mpeg"/>
+<item id="aud1" href="audio/track02_04.mp3" media-type="audio/mpeg"/>
+<item id="aud2" href="audio/track03_02.mp3" media-type="audio/mpeg"/>
+<item id="aud3" href="audio/track04_02.mp3" media-type="audio/mpeg"/>
+<item id="aud4" href="audio/track05_02.mp3" media-type="audio/mpeg"/>
+<item id="aud5" href="audio/track06_02.mp3" media-type="audio/mpeg"/>
+<item id="aud6" href="audio/track07_02.mp3" media-type="audio/mpeg"/>
+<item id="aud7" href="audio/track08_02.mp3" media-type="audio/mpeg"/>
+<item id="aud8" href="audio/track09_02.mp3" media-type="audio/mpeg"/>
+<item id="aud9" href="audio/track10_02.mp3" media-type="audio/mpeg"/>
+<item id="aud10" href="audio/track11_05.mp3" media-type="audio/mpeg"/>
+<item id="aud11" href="audio/track12_01.mp3" media-type="audio/mpeg"/>
+<item id="aud12" href="audio/track13_01.mp3" media-type="audio/mpeg"/>
+<item id="aud13" href="audio/track14_02.mp3" media-type="audio/mpeg"/>
+<item id="aud14" href="audio/track15_02.mp3" media-type="audio/mpeg"/>
+<item id="aud15" href="audio/track16_01.mp3" media-type="audio/mpeg"/>
+<item id="aud16" href="audio/track65_01.mp3" media-type="audio/mpeg"/>
 
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html1" properties="rendition:layout-reflowable"/>
-<itemref idref="html2" properties="rendition:layout-reflowable"/>
-<itemref idref="html3" properties="rendition:layout-reflowable"/>
-<itemref idref="html4" properties="rendition:layout-reflowable"/>
-<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
 <itemref idref="html6" properties="rendition:layout-pre-paginated"/>
 <itemref idref="html7" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html8" properties="rendition:layout-reflowable"/>
-<itemref idref="html9" properties="rendition:layout-reflowable"/>
-<itemref idref="html10" properties="rendition:layout-reflowable"/>
-<itemref idref="html11" properties="rendition:layout-reflowable"/>
-<itemref idref="html12" properties="rendition:layout-reflowable"/>
-<itemref idref="html13" properties="rendition:layout-reflowable"/>
-<itemref idref="html14" properties="rendition:layout-reflowable"/>
-<itemref idref="html15" properties="rendition:layout-reflowable"/>
-<itemref idref="html16" properties="rendition:layout-reflowable"/>
-<itemref idref="html17" properties="rendition:layout-reflowable"/>
-<itemref idref="html18" properties="rendition:layout-reflowable"/>
-<itemref idref="html19" properties="rendition:layout-reflowable"/>
-<itemref idref="html20" properties="rendition:layout-reflowable"/>
-<itemref idref="html21" properties="rendition:layout-reflowable"/>
-<itemref idref="html22" properties="rendition:layout-reflowable"/>
-<itemref idref="html23" properties="rendition:layout-reflowable"/>
-<itemref idref="html24" properties="rendition:layout-reflowable"/>
-<itemref idref="html25" properties="rendition:layout-reflowable"/>
-<itemref idref="html26" properties="rendition:layout-reflowable"/>
-<itemref idref="html27" properties="rendition:layout-reflowable"/>
-<itemref idref="html28" properties="rendition:layout-reflowable"/>
-<itemref idref="html29" properties="rendition:layout-reflowable"/>
-<itemref idref="html30" properties="rendition:layout-reflowable"/>
-<itemref idref="html31" properties="rendition:layout-reflowable"/>
-<itemref idref="html32" properties="rendition:layout-reflowable"/>
-<itemref idref="html33" properties="rendition:layout-reflowable"/>
-<itemref idref="html34" properties="rendition:layout-reflowable"/>
-<itemref idref="html35" properties="rendition:layout-reflowable"/>
-<itemref idref="html36" properties="rendition:layout-reflowable"/>
-<itemref idref="html37" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html10" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html11" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html12" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html13" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html14" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html15" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html16" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html17" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html18" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html19" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html20" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html21" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html22" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html23" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html24" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html25" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html26" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html27" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html28" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html29" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html30" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html31" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html32" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html33" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html34" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html35" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html36" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html37" properties="rendition:layout-pre-paginated"/>
 
     </spine>
 
