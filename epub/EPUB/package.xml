@@ -12,7 +12,7 @@
         <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2020-05-19T22:52:40Z</meta>
+        <meta property="dcterms:modified">2020-05-22T12:29:56Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -122,43 +122,43 @@
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html10" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html11" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html12" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html13" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html14" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html15" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html16" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html17" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html18" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html19" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html20" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html21" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html22" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html23" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html24" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html25" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html26" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html27" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html28" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html29" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html30" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html31" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html32" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html33" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html34" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html35" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html36" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html37" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+<itemref idref="html25" properties="rendition:layout-reflowable"/>
+<itemref idref="html26" properties="rendition:layout-reflowable"/>
+<itemref idref="html27" properties="rendition:layout-reflowable"/>
+<itemref idref="html28" properties="rendition:layout-reflowable"/>
+<itemref idref="html29" properties="rendition:layout-reflowable"/>
+<itemref idref="html30" properties="rendition:layout-reflowable"/>
+<itemref idref="html31" properties="rendition:layout-reflowable"/>
+<itemref idref="html32" properties="rendition:layout-reflowable"/>
+<itemref idref="html33" properties="rendition:layout-reflowable"/>
+<itemref idref="html34" properties="rendition:layout-reflowable"/>
+<itemref idref="html35" properties="rendition:layout-reflowable"/>
+<itemref idref="html36" properties="rendition:layout-reflowable"/>
+<itemref idref="html37" properties="rendition:layout-reflowable"/>
 
     </spine>
 
